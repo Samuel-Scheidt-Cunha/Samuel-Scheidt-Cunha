@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Samuel Scheidt Cunha 👨‍💻
+## Bem-vindo(a) ao perfil do Samuel Scheidt Cunha 💻
 
  <div>
    <a href="https://github.com/Samuel-Scheidt-Cunha">
